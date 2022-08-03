@@ -1,15 +1,11 @@
 ### Olá, eu sou Calebe Ferreira
 
+- 🔭 Atualmente estou trabalhando com PowerBI, SQL, Python. 
+- 🌱 Eu estou evoluindo em Typescrip, node.js
+- 👯 Sou bacharel em Administração pela FVC
+- 👯 Sou bacharel em Sistema da Informação pela ESTÁCIO DE SÁ
+- 👯 Sou Posgraduado em Engenharia de Software pela ESTACIO DE SAÁ
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/CalebeFerreira">
@@ -17,4 +13,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeferreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
