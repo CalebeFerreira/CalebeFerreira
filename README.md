@@ -1,7 +1,7 @@
 ### Olá, eu sou Calebe Ferreira
 
-- 🔭 Atualmente estou trabalhando com PowerBI, SQL, Python. 
-- 🌱 Eu estou evoluindo em Typescrip, node.js
+- 🔭 Atualmente estou trabalhando com Java, React, ReactNative, Postgres, PowerBI, SQL. 
+- 🌱 Eu estou evoluindo em Typescrip, Node.js e Docker
 - 👯 Sou apaixonado por Gestão em todas as suas formas 
 - 👯 Sou Posgraduado em Engenharia de Software pela ESTACIO DE SAÁ
 
